@@ -1,5 +1,6 @@
 # tp-1-adrien-crosio
-# Compte Rendu TP1 - Eloi Desbrosses truc de changer
+# Compte Rendu TP1 de Eloi Desbrosses
+## Je n'ai pas euu le temps de finir le TP en cours, je me suis arreté à la question 13 de l'exercice 2
 
 ## Exercice 2
   ### Manuel
@@ -34,7 +35,7 @@ VALEUR DE RETOUR
 TRADUCTION
        Ce document est une traduction, réalisée par Laëtitia Groslong <lgr@tartine.org>.
 
-       Elle a été reprise avec po4a par Nicolas FRANÇOIS le 29 octobre 2004.
+       Elle a été reprise avec po4a par Nicolas FRANÇOIS le 29 octobre 2004. 
 
        L'équipe de traduction a fait le maximum pour réaliser une adaptation française de qualité.
 
